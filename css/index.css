@@ -1,8 +1,5 @@
 body {
   background-color: #F5F4EB;
-
-  background-image: url("img/collage_forIAS copy.jpg");
-
 }
 
 .center {
@@ -76,7 +73,7 @@ header {
 }
 
 img {
-max-width: 50%;
+max-width: 10%;
 max-height: 10%;
 }
 
